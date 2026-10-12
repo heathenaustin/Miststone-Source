@@ -1,0 +1,9 @@
+<root>
+    <item>
+        <id>1001</id>
+        <name>&#x5C0F;&#x578B;&#x751F;&#x547D;&#x836F;&#x6C34;</name>
+        <description>&#x6062;&#x590D;10&#x70B9;&#x751F;&#x547D;&#x503C;&#x3002;</description>
+        <type>Consumable</type>
+        <recoverHp>10</recoverHp>
+    </item>
+</root>

@@ -1,0 +1,12 @@
+<root>
+    <quest>
+        <id>1001</id>
+        <name>&#x51FB;&#x6740;&#x4E24;&#x4E2A;&#x77F3;&#x5934;&#x4EBA;</name>
+        <description>&#x6751;&#x5916;&#x77F3;&#x5934;&#x4EBA;&#x6B63;&#x5728;&#x805A;&#x96C6;&#xFF0C;&#x5E2E;&#x52A9;&#x6751;&#x6C11;&#x51FB;&#x8D25;&#x4E24;&#x4E2A;&#x77F3;&#x5934;&#x4EBA;&#x3002;</description>
+        <enemyid>101</enemyid>
+        <count>2</count>
+        <reward>
+            <money>100</money>
+        </reward>
+    </quest>
+</root>
